@@ -1,6 +1,5 @@
 CODE-2
 #ThreadEx1.py
-#ThreadEx1.py
 import threading
 t=threading.current_thread()  # getName()---deprecated on the name of "name"
 print("Default Thread Name=",t.name  )
